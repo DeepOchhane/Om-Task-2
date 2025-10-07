@@ -1,0 +1,3 @@
+Here we will make conflicts in below line for two branches
+This line should make conflicts after making changes on the same line with diffrent branches.
+Changes are correct.
