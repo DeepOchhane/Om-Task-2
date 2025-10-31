@@ -52,7 +52,6 @@ git config --list
 
 👉 Learn: git branch, git checkout, git merge, git branch -d.
 
-=============>>
 
 Create a new repository on the command line:
 ---
@@ -213,7 +212,6 @@ use command: git merge feature-1
 use command: git branch -d feature-1
 
 
-========================================================
 
 
 
@@ -386,7 +384,6 @@ use command:--- **git merge Feature-1a**
 
 use command:--- git push # finally pushed our change to main.
 
-==============================================================
 ---
 
 
@@ -581,7 +578,6 @@ use command for first time commit: git push -u origin main
 
 
 
-===============================================================
 
 
 
@@ -641,7 +637,6 @@ Use Command  - git remote -v
 
 
 
-===========================================================================
 
 
 
